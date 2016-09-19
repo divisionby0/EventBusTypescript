@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/www/js/collections/Map.js" />
+        <item url="file://$PROJECT_DIR$/www/js/collections/json/MapJsonDecoder.js" />
+        <item url="file://$PROJECT_DIR$/www/js/collections/json/MapJsonEncoder.js" />
+        <item url="file://$PROJECT_DIR$/www/js/collections/iterators/MapIterator.js" />
+        <item url="file://$PROJECT_DIR$/www/js/collections/List.js" />
+        <item url="file://$PROJECT_DIR$/www/js/events/EventBusTS.js" />
+        <item url="file://$PROJECT_DIR$/www/js/libs/jqueryTS/jquery-tests.js" />
+        <item url="file://$PROJECT_DIR$/www/js/collections/iterators/ListIterator.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/www/js/collections/Map.js" />
+      <root url="file://$PROJECT_DIR$/www/js/collections/json/MapJsonDecoder.js" />
+      <root url="file://$PROJECT_DIR$/www/js/collections/json/MapJsonEncoder.js" />
+      <root url="file://$PROJECT_DIR$/www/js/collections/iterators/MapIterator.js" />
+      <root url="file://$PROJECT_DIR$/www/js/collections/List.js" />
+      <root url="file://$PROJECT_DIR$/www/js/collections/iterators/ListIterator.js" />
+      <root url="file://$PROJECT_DIR$/www/js/libs/jqueryTS/jquery-tests.js" />
+      <root url="file://$PROJECT_DIR$/www/js/events/EventBusTS.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
